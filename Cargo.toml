@@ -1,0 +1,6 @@
+[package]
+name = "volume-control"
+version = "0.1.0"
+authors = ["Anton <antonoehler@gmx.de>"]
+
+[dependencies]
